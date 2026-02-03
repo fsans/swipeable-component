@@ -1,5 +1,9 @@
 # SwipeableItem Component
 
+[![React](https://img.shields.io/badge/React-18+-blue)](https://react.dev)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-compatible-success)](https://ui.shadcn.com)
+[![MIT License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
+
 A fully-featured React swipe-to-action component built for Next.js and shadcn/ui.
 
 ## Features
